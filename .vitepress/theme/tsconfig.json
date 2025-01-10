@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "rootDir": ".",
+      "jsx": "preserve",
+      "types": ["vite/client"],
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true
+    },
+    "include": ["**/*"]
+  }
+  

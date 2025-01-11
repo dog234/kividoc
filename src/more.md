@@ -26,8 +26,8 @@
 
 ## 贡献
 
-当前仅文档可以贡献= =，大家可以提pr或者@Dogxi提建议
-感谢本文档贡献人员:
-[Dogxi](https://github.com/dog234)
-[凌云](https://github.com/JingHai-Lingyun)
+当前仅文档可以贡献= =，大家可以提pr或者@Dogxi提建议<br>
+感谢本文档贡献人员:<br>
+[Dogxi](https://github.com/dog234)<br>
+[凌云](https://github.com/JingHai-Lingyun)<br>
 

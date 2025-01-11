@@ -3,6 +3,7 @@
 框架目录下的 `kivi.config.toml` 是 `KiviBot` 的配置文件，包含了一系列框架配置，可以手动进行修改，重启后生效。
 
 > `npm start` 命令会检索当前目录下的 `kivi.config.toml` 配置文件以及 `app.js` 入口文件，从而使用正确的配置启动框架。
+
 ## 字段说明
 
 ```shell

@@ -1,16 +1,23 @@
 # 加入社区
+
 :::tip 注意
-下面是非官方群聊：
+下面是非官方群聊
 :::
-## QQ群
-### 用户群：
+
+## QQ 群
+
+### 用户群
+
 [812789605](https://qm.qq.com/cgi-bin/qm/qr?k=fteC6GcYQzcT1nnaBYDVbRWCIUkpIQrk&jump_from=webapi&authKey=GlN8HuZgPU0ze6EMYWk/8ZS5OGKtKZKxWzZjrj/NWMWEXHXVGpDrxJsmZ/feQcwp)
 
-框架用户的交流群，可以友好的交流doge。
+框架用户的交流群，可以友好的交流 doge。
+
 ### 旧群：<br>
+
 [532286460](https://qm.qq.com/cgi-bin/qm/qr?k=9MvmCKhXDXOCJLWLKzBOt4K5HuJIv79A&jump_from=webapi&authKey=Pz2wEXyCGzENHKdLQSAuxtXERV0NrewrG0lb0aFMqPa+rjOAL741wyVXPQ5qoxuW)
 
 这里也可以讨论！
+
 ## 其他
 
 1. `KiviBot` 是**完全免费且开放源代码**的软件，仅供学习和娱乐使用。
@@ -21,6 +28,7 @@
 
 当然，你也可以通过赞赏的方式来支持，促进项目更好的发展。
 [爱发电](https://afdian.net/a/dogxi)
+
 > 赞赏采取**自愿**原则
 
 <div style="display: flex; flex-wrap: wrap;">

@@ -26,8 +26,9 @@
 
 ## 贡献
 
-当前仅文档可以贡献= =，大家可以提pr或者@Dogxi提建议<br>
+当前仅文档可以贡献= =，大家可以提pr或者在github仓库提issue<br>
+感谢框架作者:<br>
+[Viki](https://github.com/vikiboss)<br>
 感谢本文档贡献人员:<br>
 [Dogxi](https://github.com/dog234)<br>
 [凌云](https://github.com/JingHai-Lingyun)<br>
-

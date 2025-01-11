@@ -24,18 +24,10 @@
 2. 完全出于兴趣开发，**不会通过任何方式强制索取费用**，或对使用者提出物质条件。
 3. 精力有限，同时维护框架、文档以及诸多官方插件实属不易，感谢理解与支持。
 
-## 支持项目
+## 贡献
 
-当然，你也可以通过赞赏的方式来支持，促进项目更好的发展。
-[爱发电](https://afdian.net/a/dogxi)
+当前仅文档可以贡献= =，大家可以提pr或者@Dogxi提建议
+感谢本文档贡献人员:
+[Dogxi](https://github.com/dog234)
+[凌云](https://github.com/JingHai-Lingyun)
 
-> 赞赏采取**自愿**原则
-
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="display: flex; align-items: center; flex-direction: column;">
-    <img src="https://s2.loli.net/2022/12/29/TtNiqZnwy6ESGjO.jpg" alt="wxpay" width="160px" style="margin: 24px;"/>
-  </div>
-  <div style="display: flex; align-items: center; flex-direction: column;">
-    <img src="https://s2.loli.net/2022/12/29/5xk8paK4wGDnAhW.jpg" alt="alipay" width="160px"  style="margin:24px;"/>
-  </div>
-</div>

@@ -6,6 +6,7 @@
 
 - [Linux](/start/linux)
 - [Windows](/start/win)
+- [Macos](/start/macos)
 - [Android](/start/android)
 
 ## 部署成功

@@ -38,9 +38,11 @@ npx kivibot
 # 如果密码错误，请删除文件夹重新创建
 ```
 
-## 启动 Kivibot
-
+## 更新版本并启动 Kivibot
+先根据上面提示切换到机器人目录
 ```shell
+npm i kivibot@2.0.0-rc.1
+# 更新kivibot(目前需更新rc版本使用)
 npm start
 # 或者npm run start
 ```

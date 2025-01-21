@@ -36,6 +36,8 @@ npx kivibot
 ## 更新版本并启动 Kivibot
 先根据上面提示切换到机器人目录
 ```shell
+npm i
+# 安装所有配置模块
 npm i kivibot@2.0.0-rc.1
 # 更新kivibot(目前需更新rc版本使用)
 npm start
